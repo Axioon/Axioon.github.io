@@ -1,7 +1,7 @@
 # Axioon.github.io
 
-Link a mi GithubPage:
-1) https://axioon.github.io/
-Pull request que he hecho:
-1) https://github.com/Sovalle93/sovalle93.github.io/pull/4 
-2) https://github.com/Val393/Val393.github.io/pull/6
+1)Link a mi GithubPage:
+- https://axioon.github.io/
+2)Pull request que he hecho:
+- https://github.com/Sovalle93/sovalle93.github.io/pull/4 
+- https://github.com/Val393/Val393.github.io/pull/6
